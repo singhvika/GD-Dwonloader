@@ -1,0 +1,19 @@
+{
+  "name": "gd-dwonloader",
+  "version": "1.0.0",
+  "description": "This application allows to download large files from google drive while bypassing its download limit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singhvika/GD-Dwonloader.git"
+  },
+  "author": "Vikas Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhvika/GD-Dwonloader/issues"
+  },
+  "homepage": "https://github.com/singhvika/GD-Dwonloader#readme"
+}
